@@ -222,7 +222,7 @@ class _MyAppState extends State<MyApp> {
               ),
               title: Text("Developer"),
               subtitle: Text(
-                "MOhammed Mubarak",
+                "Mohammed Mubarak",
                 style: TextStyle(fontSize: 15),
               ),
             ),
@@ -616,7 +616,7 @@ class _MyAppState extends State<MyApp> {
   }
 
   _launchGithub() async {
-    const url = 'https://github.com/saurav0001kumar/COVID-19-Status';
+    const url = 'https://github.com/MDmubarak786/COVID19-status';
     if (await canLaunch(url)) {
       await launch(url);
     } else {
