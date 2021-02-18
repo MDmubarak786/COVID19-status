@@ -1,16 +1,18 @@
 <h1 align="center">🦾 COVID19-status 👀</h1>  
 
 ```
-👋 ❤️This is Flutter application.
+👋 ❤️The global COVID-19 tracker for android using flutter. 
 
-🟢 this is a app about COVID-19 status.
+🟢 This application shows Covid-19 statistics in different countries of the world.  
 
-🟢 Website from Where I get details link from covid "https://disease.sh/".
+🟢 Data SOURCE for COVID-19 Global Statistics : <a href="https://disease.sh/">https://disease.sh/</a>.
 
 🟢 We can give the country name which country's you want about covid status.
 
 🟢 Smooth App.
 
+
+  
 ```
 
 
