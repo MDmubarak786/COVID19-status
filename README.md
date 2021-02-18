@@ -10,8 +10,6 @@
 🟢 We can give the country name which country's you want about covid status.
 
 🟢 Smooth App.
-
-
   
 ```
 
@@ -29,3 +27,5 @@
 
 ##
  # 🔴 Kindly Don't forget to give a star and follow ...
+
+<b>Copyright © 2021 Mohammed Mubarak</b>
