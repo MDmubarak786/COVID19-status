@@ -1,11 +1,13 @@
-<h1 align="center">🦾 Stop Watch 👀</h1>  
+<h1 align="center">🦾 COVID19-status 👀</h1>  
 
 ```
 👋 ❤️This is Flutter application.
 
-🟢 this is a stop watch with some lovable animation smooth app. 
+🟢 this is a COVID-19 status. You can see from anycountries covid status from anywhere susing this app from original data from https://disease.sh/
 
-🟢 we can pause , play , and get the lap time like a real watch.
+🟢 We can give the country name which country's you want about covid status.
+
+🟢
 
 ```
 
