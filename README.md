@@ -1,16 +1,20 @@
-# covid
+<h1 align="center">🦾 Stop Watch 👀</h1>  
 
-A new Flutter application.
+```
+👋 ❤️This is Flutter application.
 
-## Getting Started
+🟢 this is a stop watch with some lovable animation smooth app. 
 
-This project is a starting point for a Flutter application.
+🟢 we can pause , play , and get the lap time like a real watch.
 
-A few resources to get you started if this is your first Flutter project:
+```
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##
+
+# 🤳 ScreenShots 👀 
+![1](https://user-images.githubusercontent.com/44917891/108223211-96c11480-715f-11eb-8832-fc9981d2bbbf.jpg)
+![2](https://user-images.githubusercontent.com/44917891/108223217-988ad800-715f-11eb-90f0-b004dcb5cc80.jpg)
+![3](https://user-images.githubusercontent.com/44917891/108223221-99bc0500-715f-11eb-99e7-e5627be07024.jpg)
+![4](https://user-images.githubusercontent.com/44917891/108223226-9aed3200-715f-11eb-83c0-daf0105850ed.jpg)
+![5](https://user-images.githubusercontent.com/44917891/108223232-9b85c880-715f-11eb-8f9e-492870197c10.jpg)
