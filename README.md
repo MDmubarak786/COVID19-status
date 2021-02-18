@@ -3,11 +3,13 @@
 ```
 👋 ❤️This is Flutter application.
 
-🟢 this is a COVID-19 status. You can see from anycountries covid status from anywhere susing this app from original data from https://disease.sh/
+🟢 this is a app about COVID-19 status.
+
+🟢 Website from Where I get details link from covid "https://disease.sh/".
 
 🟢 We can give the country name which country's you want about covid status.
 
-🟢
+🟢 Smooth App.
 
 ```
 
