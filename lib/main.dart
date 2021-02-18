@@ -329,7 +329,7 @@ class _MyAppState extends State<MyApp> {
                   todayRecovered = snapshot.data.todayRecovered;
                   active = snapshot.data.active;
                   population = snapshot.data.population;
-
+//
                   return Column(
                     children: [
                       Container(padding: EdgeInsets.fromLTRB(0, 10, 0, 0)),
