@@ -1,15 +1,7 @@
 <h1 align="center">🦾 COVID19-status 👀</h1>  
 
 ```
-👋 ❤️The global COVID-19 tracker for android using flutter. 
 
-🟢 This application shows Covid-19 statistics in different countries of the world.  
-
-🟢 Data SOURCE for COVID-19 Global Statistics : <a href="https://disease.sh/">https://disease.sh/</a>.
-
-🟢 We can give the country name which country's you want about covid status.
-
-🟢 Smooth App.
 
 ```
 
