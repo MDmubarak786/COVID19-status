@@ -13,7 +13,7 @@
 
 ```
 
-youtube video ::: https://youtu.be/idLG0FhK-AU
+youtube video ::: 
 
 
 ##
